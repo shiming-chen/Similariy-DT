@@ -25,7 +25,7 @@ cd Similarity-DT
 
 
 
-## Generation
+## Generation (Running on Windows)
 
 #### Generating gray DTs
 
