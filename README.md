@@ -7,7 +7,7 @@
 
 ## Overview 
 - [Installation](##installation)
-- [Train](##Generation (Running on Windows))
+- [Generation (Running on Windows)](##Generation (Running on Windows))
 - [Baseline](##baseline)
 - [Citation](##citation)
 - [Contact](##contact)
