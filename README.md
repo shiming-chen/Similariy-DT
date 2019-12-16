@@ -1,7 +1,7 @@
 ##Learning Kernel Similarity Embedding for Dynamic Texture Synthesis
 
 
-![](https://github.com/shiming-chen/Similariy-DT/blob/master/core-idea.jpg)
+![](https://github.com/shiming-chen/Similariy-DT/blob/master/core-idea1.jpg)
 [[Project]](https://shiming-chen.github.io/Similarity-page/Similarity.html) [[Paper]](https://arxiv.org/abs/1911.04254)
 
 ## Overview 
