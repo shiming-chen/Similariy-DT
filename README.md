@@ -7,9 +7,8 @@
 
 ## Overview 
 - [Installation](##installation)
-- [Train](##generation)
+- [Train](##Generation (Running on Windows))
 - [Baseline](##baseline)
-- [References](##references)
 - [Citation](##citation)
 - [Contact](##contact)
 
@@ -28,15 +27,15 @@ cd Similarity-DT
 
 ## Generation (Running on Windows)
 
-#### Generating gray DTs
+#### 1. Generating gray DTs
 
 Run `Similarity_gray('DT_name','save_name')`
 
-#### Generating RGB DTs
+#### 2. Generating RGB DTs
 
 Run `Similarity_RGB('DT_name','save_name')`
 
-#### Transfering Trained Model for Generation
+#### 3. Transfering Trained Model for Generation
 
 Run `Similarity_RGB_transfer('train_DT_name','test_DT_name','save_name')`
 
