@@ -42,7 +42,7 @@ Run `Similarity_RGB_transfer('train_DT_name','test_DT_name','save_name')`
 ## Baseline
 
 #### Non-Neural-Network-Based Method
-We provide the codes for the compared non-neural-network-based methods, i.e., LDS, SLADS, Kernel-DT, FFT-LDS, HOSVD, KPCR.
+We provide the codes for the compared non-neural-network-based methods, i.e., [LDS](), [SLDS](), [Kernel-DT](), [FFT-LDS](), [HOSVD](), [KPCR]().
 
 #### Neural-Network-Based Method
 The projects page of [TwoStream](https://ryersonvisionlab.github.io/two-stream-projpage/), [STGCN](http://www.stat.ucla.edu/~jxie/STGConvNet/STGConvNet.html), and [DG](http://www.stat.ucla.edu/~jxie/DynamicGenerator/DynamicGenerator.html) as follow:
