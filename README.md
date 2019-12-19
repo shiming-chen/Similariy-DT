@@ -1,4 +1,4 @@
-## Learning Kernel Similarity Embedding for DT Synthesis [[Project]](https://shiming-chen.github.io/Similarity-page/Similarity.html) [[Paper]](https://arxiv.org/abs/1911.04254)
+## Kernel Similarity Embedding for DT Synthesis [[Project]](https://shiming-chen.github.io/Similarity-page/Similarity.html) [[Paper]](https://arxiv.org/abs/1911.04254)
 
 
 ![](https://github.com/shiming-chen/Similariy-DT/blob/master/core-idea1.jpg)
@@ -58,7 +58,7 @@ If this work is helpful for you, please cite my paper.
 
 ```
 @article{Chen2019SimilarityDTKS,
-  title={Learning Kernel Similarity Embedding for Dynamic Texture Synthesis},
+  title={Similarity-DT: Kernel Similarity Embedding for Dynamic Texture Synthesis},
   author={Shiming Chen and Peng Zhang and Xinge You and Qinmu Peng and Xin Liu, Zehong Cao, Dacheng Tao},
   journal={ArXiv},
   year={2019},
