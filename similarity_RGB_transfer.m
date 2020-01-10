@@ -82,7 +82,7 @@ Z=Z-ones(video2_length,1)*Zmean;
 
 
 
-[OutputWeight,Omega_train,Omega_train1] = kernelelm(Y,N,regularization_factor,kernel_type,kernel_coefficient);
+[OutputWeight] = kernelelm(Y,N,regularization_factor,kernel_type,kernel_coefficient);
 
 imageinitial=Z(1,:)';
 P=Y(1:N-1,:)';
