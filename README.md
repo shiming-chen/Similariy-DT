@@ -1,7 +1,7 @@
 ## Kernel Similarity Embedding for DT Synthesis [[Project]](https://shiming-chen.github.io/Similarity-page/Similarity.html) [[Paper]](https://arxiv.org/abs/1911.04254)
 
 
-![](https://github.com/shiming-chen/Similariy-DT/blob/master/core-idea1.jpg)
+<!--![](https://github.com/shiming-chen/Similariy-DT/blob/master/core-idea1.jpg)-->
 
 
 
