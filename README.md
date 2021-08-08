@@ -53,7 +53,7 @@ The project pages of [TwoStream](https://ryersonvisionlab.github.io/two-stream-p
 
 
 
-## Citation
+<!--## Citation
 If this work is helpful for you, please cite my paper.
 
 ```
@@ -65,6 +65,7 @@ If this work is helpful for you, please cite my paper.
   volume={abs/1911.04254}
 }
 ```
+-->
 
 ## Contact
 If you run into any problems with these codes, please submit a bug report on the Github site of the project. For another inquries please contact with me: gchenshiming@gmail.com or shimingchen@hust.edu.cn.
